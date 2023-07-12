@@ -29,7 +29,7 @@ INSERT INTO recommendations VALUES
 ('I do not recommend this resource, having used it'),
 ('I have not used this resource but it looks promising');
   
-    INSERT INTO contenttypes (content_type) VALUES
+INSERT INTO contenttypes (content_type) VALUES
   ('Article'), ('Video'), ('Podcast'),
   ('Diagram/Image'), ('E-book'), ('Exercise'),
   ('Software-tool'), ('Course'), ('Cheat-sheet'), 
